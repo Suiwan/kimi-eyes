@@ -32,7 +32,7 @@
 
 📦 开源了
 代码不大，但这两个坑的完整复盘都写进 README 了，用 DSH 的朋友可以直接抄作业：
-👉 GitHub：<你的仓库链接>
+👉 GitHub：https://github.com/Suiwan/kimi-eyes
 
 #AI工具 #Kimi #AI Agent #效率神器 #程序员日常 #独立开发 #折腾日记 #开源
 

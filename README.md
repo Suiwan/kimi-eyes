@@ -43,7 +43,7 @@ Kimi K3（Anthropic 协议 /v1/messages）──▶ 文本描述
 
 ```bash
 # 1. 克隆并把包链接进 profile 的 node_modules
-git clone <repo-url> kimi-eyes
+git clone https://github.com/Suiwan/kimi-eyes.git kimi-eyes
 ln -sfn "$(pwd)/kimi-eyes" ~/.dsh/profiles/web/node_modules/kimi-eyes
 ```
 
@@ -94,7 +94,7 @@ assets/demo.png 演示用仪表盘截图
 
 ## 相关项目
 
-- [dsh-usage-meter](https://github.com/ 等你填)：同一「profile 组合层挂本地插件」模式的例子（DeepSeek 余额 + 会话用量读出）。
+- dsh-usage-meter：同一「profile 组合层挂本地插件」模式的例子（DeepSeek 余额 + 会话用量读出）。
 
 ## License
 
