@@ -92,10 +92,6 @@ lib/index.js   包根转发
 assets/demo.png 演示用仪表盘截图
 ```
 
-## 相关项目
-
-- dsh-usage-meter：同一「profile 组合层挂本地插件」模式的例子（DeepSeek 余额 + 会话用量读出）。
-
 ## License
 
 MIT
