@@ -1,0 +1,14 @@
+{
+  "name": "kimi-eyes",
+  "description": "给 DSH 主 agent 装眼睛：kimi_vision 工具，用 Kimi K3 视觉模型识别图片（Anthropic 协议）",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "lib/entry.js",
+  "exports": {
+    ".": {
+      "default": "./lib/entry.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "license": "MIT"
+}
